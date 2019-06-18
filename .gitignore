@@ -1,0 +1,9 @@
+.idea
+build/*
+services/order/build/*
+services/ucenter/build/*
+services/ucenter/pid
+services/order/pid
+gateway/pid
+gateway/access.log
+services/ucenter/access.log
