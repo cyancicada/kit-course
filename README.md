@@ -36,7 +36,6 @@ curl http://localhost:4001/svc/ucenter/v1/user/122552323
         - [x] access.log / error.log
     - [x] instrumentation
     - [ ] auth
-        - [ ] jwt
         - [ ] cookie
     - [ ] load balance
     - [x] error handle
